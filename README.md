@@ -1,2 +1,2 @@
 # CloudForAI_Projects
-Project 1 and 2
+Elke map heeft zijn eigen Readme file. daar vindt je de stappen om de code te gebruiken
