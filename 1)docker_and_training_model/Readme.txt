@@ -8,7 +8,7 @@ Run het commando: docker build . -t cloudai_project1_jvc
 
 Stap 3)
 
-Ga naar Docker Desktop en run 'cloudai_project1_jvc'
+Ga naar 'Docker Desktop' en run 'cloudai_project1_jvc'
 
 Stap 4)
 
