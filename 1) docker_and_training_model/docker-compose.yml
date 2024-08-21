@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  python-app:     
+    build: .        
+    volumes:
+      - my_data_volume:/data
+
+volumes:
+  my_data_volume:
+    name: cloud_project1_volume
